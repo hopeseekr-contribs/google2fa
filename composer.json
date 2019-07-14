@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/google2fa",
+    "name": "hopeseekr:pragmarx/google2fa",
     "description": "A One Time Password Authentication package, compatible with Google Authenticator.",
     "keywords": [
         "authentication",
